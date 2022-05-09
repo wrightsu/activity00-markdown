@@ -1,12 +1,12 @@
 # activity00-markdown
 
-In this repository/directory you should see four items:
+In this repository/directory you should see five items:
 
 1. `README-img` - a folder containing images that I am embedding within this `README.md` file
 2. `.gitignore` - you can ignore this file for the time being
-2. `README.md` - this document
-3. `activity00.pdf` - a PDF document that you will be recreating using your markdown skills
-4. `5333.jpg` - an image that you will embed within your recreated document
+3. `5333.jpg` - an image that you will embed within your recreated document
+4. `README.md` - this document
+5. `activity00.pdf` - a PDF document that you will be recreating using your markdown skills
 
 We will get to these items in a bit.
 
